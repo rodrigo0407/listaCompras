@@ -15,7 +15,7 @@ import java.util.Collection;
 import java.util.Scanner;
 
 public class Compras extends AppCompatActivity {
-    double  quantidade,compras;
+    double  quantidade,compras, teste;
     EditText edtProduto,edtQuantidade;
     Button buttonSalvar, buttonVisualizar;
     String lista,produto;
